@@ -1,15 +1,11 @@
-### Hi there 👋
-
-#### I'm Hayeong Shim, ✨
-
-#### a 5G Network Application Developer at Samsung Electronics 
+### 👋 Hi there!
+#### I'm a 5G Network Application Developer at Samsung Electronics. ✨
 
 <br/>
 
-### Available Skills
+### 💪 Available Skills
 
 #### Languages
-C C++ Go
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white)
