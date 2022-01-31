@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayeongShim&langs_count=10&layout=compact)](https://github.com/HayeongShim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HayeongShim&langs_count=10&layout=compact)](https://github.com/HayeongShim/github-readme-stats) 
 
 <!--
 **HayeongShim/HayeongShim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
